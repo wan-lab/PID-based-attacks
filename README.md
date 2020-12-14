@@ -19,10 +19,13 @@ Models
 
 Inception_V3 
 http://download.tensorflow.org/models/inception_v3_2016_08_28.tar.gz
+
 Inception_V4 
 http://download.tensorflow.org/models/inception_v4_2016_09_09.tar.gz
+
 Inception_ResNet_V2 
 http://download.tensorflow.org/models/inception_resnet_v2_2016_08_30.tar.gz
+
 ResNet_V2_152 
 http://download.tensorflow.org/models/resnet_v2_152_2017_04_14.tar.gz
 
